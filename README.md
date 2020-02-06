@@ -6,7 +6,9 @@ This repository so far contains the code for the TecoGAN _inference_
 and _training_. Data generation, i.e., download, will follow soon.
 Pre-trained models are also available below, you can find links for downloading and instructions below.
 The video and pre-print of our paper can be found here:
+该存储库包含TecoGAN项目的源代码和资料，即用于视频超分辨率的Temporally Coherent GAN的代码。 作者：Mengyu Chu，You Xie，Laura Leal-Taixe，Nils Thuerey。慕尼黑工业大学。
 
+到目前为止，该存储库包含TecoGAN 推理 和训练的代码。即将进行数据生成（即下载）。下面还提供了预训练的模型，您可以在下面找到下载链接和说明。我们的论文的视频和预印本可以在这里找到：
 Video: <https://www.youtube.com/watch?v=pZXFXtfd-Ak>
 Preprint: <https://arxiv.org/pdf/1811.09393.pdf>
 
